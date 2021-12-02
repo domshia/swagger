@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/domshia/swagger/main/main/domsei.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/domshia/swagger/main/main/domsei.yaml",
+            "name": "Foo"
+        }
+    ]
+}
