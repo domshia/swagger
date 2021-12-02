@@ -2,7 +2,7 @@
     "url": "https://raw.githubusercontent.com/domshia/swagger/main/main/domsei.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Barsu4ara/swagger/main/main/domsei.yaml",
+            "url": "https://raw.githubusercontent.com/domshia/swagger/main/main/domsei.yaml",
             "name": "Foo"
         }
     ]
